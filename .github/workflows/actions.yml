@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '*/10 * * * *' # run every Monday at 6
+    - cron: '0 6 * * MON' # run every Monday at 6
 
 
 jobs:
@@ -32,9 +32,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add -A
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
-          
-      - name: show git status
-        run: git status
 
       - name: push changes
         uses: ad-m/github-push-action@v0.6.0
