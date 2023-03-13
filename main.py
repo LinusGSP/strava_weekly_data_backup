@@ -61,7 +61,7 @@ with open('leaderboard.json', 'w') as f:
     json.dump(leaderboard, f)
 
 # safe the new markdown file
-leaderboard_data = [(points, name.split(';')[0]) for (name, points) in leaderboard.items()]
+leaderboard_data = [(points, f"[{name.split(';')[0]}](https://www.strava.com/athletes/{name.split(';')[1]})") for (name, points) in leaderboard.items()]
 leaderboard_data.sort(key=lambda x: x[0], reverse=True)  # sort by points
 
 df = pd.DataFrame(leaderboard_data, columns=('Punkte', 'Name'))
