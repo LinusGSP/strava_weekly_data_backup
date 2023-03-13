@@ -4,7 +4,7 @@ import requests
 import json
 import datetime
 import pandas as pd
-
+"""
 week_offset = 1
 per_page = None
 sort_by = 'moving_time'
@@ -38,12 +38,12 @@ with open(file_name, 'w') as f:
 # create the leaderboard if not exists
 if not os.path.exists('leaderboard.json'):
     with open('leaderboard.json', 'w') as f:
-        json.dump({}, f)
+        json.dump({}, f)"""
 
 # load the old leaderboard
 with open('leaderboard.json', 'r') as f:
     leaderboard: dict = json.load(f)
-
+"""
 # add new top 3 to leaderboard
 for i, p in enumerate(data[:3]):
     name: str = f"{p['athlete_firstname']} {p['athlete_lastname']};{p['athlete_id']}"
@@ -51,8 +51,7 @@ for i, p in enumerate(data[:3]):
     if leaderboard.__contains__(name):
         leaderboard[name] += 3 - i
     else:
-        leaderboard[name] = 3 - i
-
+        leaderboard[name] = 3 - i"""
 
 print(leaderboard)
 
@@ -61,10 +60,12 @@ with open('leaderboard.json', 'w') as f:
     json.dump(leaderboard, f)
 
 # safe the new markdown file
-leaderboard_data = [(points, f"[{name.split(';')[0]}](https://www.strava.com/athletes/{name.split(';')[1]})") for (name, points) in leaderboard.items()]
+leaderboard_data = [(points, f"[{name.split(';')[0]}](https://www.strava.com/athletes/{name.split(';')[1]})")
+                    for (name, points) in leaderboard.items()]
 leaderboard_data.sort(key=lambda x: x[0], reverse=True)  # sort by points
+leaderboard_data = [(i, *d) for i, d in enumerate(leaderboard_data, start=1)]
 
-df = pd.DataFrame(leaderboard_data, columns=('Punkte', 'Name'))
+df = pd.DataFrame(leaderboard_data, columns=('Rang', 'Punkte', 'Name'))
 with open('README.md', 'w') as f:
     f.write('## Rangliste\n\n')
-    f.write(df.to_markdown())
+    f.write(df.to_markdown(index=False))
