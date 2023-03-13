@@ -3,6 +3,7 @@ import os
 import requests
 import json
 import datetime
+import pandas as pd
 
 week_offset = 1
 per_page = None
@@ -45,15 +46,25 @@ with open('leaderboard.json', 'r') as f:
 
 # add new top 3 to leaderboard
 for i, p in enumerate(data[:3]):
-    name: str = f"{p['athlete_firstname']} {p['athlete_lastname']} - {p['athlete_id']}"
+    name: str = f"{p['athlete_firstname']} {p['athlete_lastname']};{p['athlete_id']}"
 
     if leaderboard.__contains__(name):
         leaderboard[name] += 3 - i
     else:
         leaderboard[name] = 3 - i
 
+
 print(leaderboard)
 
 # safe the new leaderboard
 with open('leaderboard.json', 'w') as f:
     json.dump(leaderboard, f)
+
+# safe the new markdown file
+leaderboard_data = [(points, name.split(';')[0]) for (name, points) in leaderboard.items()]
+leaderboard_data.sort(key=lambda x: x[0], reverse=True)  # sort by points
+
+df = pd.DataFrame(leaderboard_data, columns=('Punkte', 'Name'))
+with open('README.md', 'w') as f:
+    f.write('## Rangliste\n\n')
+    f.write(df.to_markdown())
