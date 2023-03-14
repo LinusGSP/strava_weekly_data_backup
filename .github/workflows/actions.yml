@@ -2,7 +2,7 @@ name: run main.py
 
 on:
   schedule:
-    - cron: '0 0 * * TUE' # run every week on tuesday at 00:00
+    - cron: '0 10 * * TUE' # run every week on tuesday at 10:00
 
 
 jobs:
