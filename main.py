@@ -4,7 +4,7 @@ import requests
 import json
 import datetime
 import pandas as pd
-"""
+
 week_offset = 1
 per_page = None
 sort_by = 'moving_time'
@@ -38,12 +38,12 @@ with open(file_name, 'w') as f:
 # create the leaderboard if not exists
 if not os.path.exists('leaderboard.json'):
     with open('leaderboard.json', 'w') as f:
-        json.dump({}, f)"""
+        json.dump({}, f)
 
 # load the old leaderboard
 with open('leaderboard.json', 'r') as f:
     leaderboard: dict = json.load(f)
-"""
+
 # add new top 3 to leaderboard
 for i, p in enumerate(data[:3]):
     name: str = f"{p['athlete_firstname']} {p['athlete_lastname']};{p['athlete_id']}"
@@ -51,7 +51,7 @@ for i, p in enumerate(data[:3]):
     if leaderboard.__contains__(name):
         leaderboard[name] += 3 - i
     else:
-        leaderboard[name] = 3 - i"""
+        leaderboard[name] = 3 - i
 
 print(leaderboard)
 
