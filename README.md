@@ -2,9 +2,9 @@
 
 |   Rang |   Punkte | Name                                                   |
 |-------:|---------:|:-------------------------------------------------------|
-|      1 |       16 | [Sepp F.](https://www.strava.com/athletes/16756310)    |
-|      2 |        6 | [Peter P.](https://www.strava.com/athletes/25457664)   |
-|      3 |        6 | [Dominic S.](https://www.strava.com/athletes/55489726) |
+|      1 |       18 | [Sepp F.](https://www.strava.com/athletes/16756310)    |
+|      2 |        9 | [Dominic S.](https://www.strava.com/athletes/55489726) |
+|      3 |        7 | [Peter P.](https://www.strava.com/athletes/25457664)   |
 |      4 |        5 | [Marcel I.](https://www.strava.com/athletes/7534298)   |
 |      5 |        5 | [Alain P.](https://www.strava.com/athletes/3430605)    |
 |      6 |        5 | [Georg S.](https://www.strava.com/athletes/916353)     |
