@@ -2,16 +2,16 @@
 
 |   Rang |   Punkte | Name                                                    |
 |-------:|---------:|:--------------------------------------------------------|
-|      1 |       18 | [Sepp F.](https://www.strava.com/athletes/16756310)     |
+|      1 |       19 | [Sepp F.](https://www.strava.com/athletes/16756310)     |
 |      2 |        9 | [Dominic S.](https://www.strava.com/athletes/55489726)  |
 |      3 |        7 | [Peter P.](https://www.strava.com/athletes/25457664)    |
-|      4 |        5 | [Marcel I.](https://www.strava.com/athletes/7534298)    |
-|      5 |        5 | [Alain P.](https://www.strava.com/athletes/3430605)     |
-|      6 |        5 | [Georg S.](https://www.strava.com/athletes/916353)      |
-|      7 |        5 | [Vroni S.](https://www.strava.com/athletes/29514203)    |
-|      8 |        3 | [Peter P.](https://www.strava.com/athletes/57591751)    |
-|      9 |        3 | [Markus R.](https://www.strava.com/athletes/4722924)    |
-|     10 |        3 | [Urs H.](https://www.strava.com/athletes/372431)        |
+|      4 |        6 | [Markus R.](https://www.strava.com/athletes/4722924)    |
+|      5 |        5 | [Marcel I.](https://www.strava.com/athletes/7534298)    |
+|      6 |        5 | [Alain P.](https://www.strava.com/athletes/3430605)     |
+|      7 |        5 | [Urs H.](https://www.strava.com/athletes/372431)        |
+|      8 |        5 | [Georg S.](https://www.strava.com/athletes/916353)      |
+|      9 |        5 | [Vroni S.](https://www.strava.com/athletes/29514203)    |
+|     10 |        3 | [Peter P.](https://www.strava.com/athletes/57591751)    |
 |     11 |        3 | [Blue L.](https://www.strava.com/athletes/84269972)     |
 |     12 |        3 | [Schribi d.](https://www.strava.com/athletes/11422737)  |
 |     13 |        2 | [Ursula B.](https://www.strava.com/athletes/7692435)    |
