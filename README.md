@@ -2,12 +2,12 @@
 
 |   Rang |   Punkte | Name                                                    |
 |-------:|---------:|:--------------------------------------------------------|
-|      1 |       28 | [Sepp F.](https://www.strava.com/athletes/16756310)     |
+|      1 |       31 | [Sepp F.](https://www.strava.com/athletes/16756310)     |
 |      2 |       14 | [Peter P.](https://www.strava.com/athletes/25457664)    |
 |      3 |       11 | [Dominic S.](https://www.strava.com/athletes/55489726)  |
 |      4 |       10 | [Urs H.](https://www.strava.com/athletes/372431)        |
-|      5 |        6 | [Markus R.](https://www.strava.com/athletes/4722924)    |
-|      6 |        6 | [Vroni S.](https://www.strava.com/athletes/29514203)    |
+|      5 |        8 | [Vroni S.](https://www.strava.com/athletes/29514203)    |
+|      6 |        6 | [Markus R.](https://www.strava.com/athletes/4722924)    |
 |      7 |        5 | [Marcel I.](https://www.strava.com/athletes/7534298)    |
 |      8 |        5 | [Alain P.](https://www.strava.com/athletes/3430605)     |
 |      9 |        5 | [Georg S.](https://www.strava.com/athletes/916353)      |
@@ -24,3 +24,4 @@
 |     20 |        1 | [Peider N.](https://www.strava.com/athletes/22440929)   |
 |     21 |        1 | [Rolf D.](https://www.strava.com/athletes/18050383)     |
 |     22 |        1 | [Flipper F.](https://www.strava.com/athletes/42768485)  |
+|     23 |        1 | [Nadja K.](https://www.strava.com/athletes/16030256)    |
