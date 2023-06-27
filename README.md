@@ -2,18 +2,18 @@
 
 |   Rang |   Punkte | Name                                                    |
 |-------:|---------:|:--------------------------------------------------------|
-|      1 |       33 | [Sepp F.](https://www.strava.com/athletes/16756310)     |
+|      1 |       34 | [Sepp F.](https://www.strava.com/athletes/16756310)     |
 |      2 |       14 | [Peter P.](https://www.strava.com/athletes/25457664)    |
-|      3 |       11 | [Dominic S.](https://www.strava.com/athletes/55489726)  |
-|      4 |       10 | [Urs H.](https://www.strava.com/athletes/372431)        |
+|      3 |       13 | [Urs H.](https://www.strava.com/athletes/372431)        |
+|      4 |       11 | [Dominic S.](https://www.strava.com/athletes/55489726)  |
 |      5 |        8 | [Vroni S.](https://www.strava.com/athletes/29514203)    |
 |      6 |        6 | [Markus R.](https://www.strava.com/athletes/4722924)    |
 |      7 |        5 | [Marcel I.](https://www.strava.com/athletes/7534298)    |
 |      8 |        5 | [Alain P.](https://www.strava.com/athletes/3430605)     |
 |      9 |        5 | [Georg S.](https://www.strava.com/athletes/916353)      |
-|     10 |        3 | [Peter P.](https://www.strava.com/athletes/57591751)    |
-|     11 |        3 | [Blue L.](https://www.strava.com/athletes/84269972)     |
-|     12 |        3 | [Schribi d.](https://www.strava.com/athletes/11422737)  |
+|     10 |        5 | [Schribi d.](https://www.strava.com/athletes/11422737)  |
+|     11 |        3 | [Peter P.](https://www.strava.com/athletes/57591751)    |
+|     12 |        3 | [Blue L.](https://www.strava.com/athletes/84269972)     |
 |     13 |        3 | [Szabolcs K.](https://www.strava.com/athletes/14460104) |
 |     14 |        3 | [Peter S.](https://www.strava.com/athletes/8718070)     |
 |     15 |        2 | [Ursula B.](https://www.strava.com/athletes/7692435)    |
