@@ -2,12 +2,12 @@
 
 |   Rang | Name                                                       | 2024   |   2023 |    |   Total |
 |-------:|:-----------------------------------------------------------|:-------|-------:|:---|--------:|
-|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **4**  |     87 |    |      91 |
-|      2 | [Schribi d.](https://www.strava.com/athletes/11422737)     | **3**  |     21 |    |      24 |
-|      3 | [Dominic S.](https://www.strava.com/athletes/55489726)     | **2**  |     17 |    |      19 |
-|      4 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **2**  |      0 |    |       2 |
+|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **7**  |     87 |    |      94 |
+|      2 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **4**  |      0 |    |       4 |
+|      3 | [Schribi d.](https://www.strava.com/athletes/11422737)     | **3**  |     21 |    |      24 |
+|      4 | [Dominic S.](https://www.strava.com/athletes/55489726)     | **2**  |     17 |    |      19 |
 |      5 | [Vroni S.](https://www.strava.com/athletes/29514203)       | **1**  |     25 |    |      26 |
-|      6 | [Peter P.](https://www.strava.com/athletes/25457664)       | **0**  |     21 |    |      21 |
+|      6 | [Peter P.](https://www.strava.com/athletes/25457664)       | **1**  |     21 |    |      22 |
 |      7 | [Urs H.](https://www.strava.com/athletes/372431)           | **0**  |     13 |    |      13 |
 |      8 | [Georg S.](https://www.strava.com/athletes/916353)         | **0**  |     13 |    |      13 |
 |      9 | [Peter P.](https://www.strava.com/athletes/57591751)       | **0**  |      9 |    |       9 |
