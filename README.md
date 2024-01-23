@@ -2,11 +2,11 @@
 
 |   Rang | Name                                                       | 2024   |   2023 |    |   Total |
 |-------:|:-----------------------------------------------------------|:-------|-------:|:---|--------:|
-|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **7**  |     87 |    |      94 |
-|      2 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **4**  |      0 |    |       4 |
+|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **10** |     87 |    |      97 |
+|      2 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **6**  |      0 |    |       6 |
 |      3 | [Schribi d.](https://www.strava.com/athletes/11422737)     | **3**  |     21 |    |      24 |
-|      4 | [Dominic S.](https://www.strava.com/athletes/55489726)     | **2**  |     17 |    |      19 |
-|      5 | [Vroni S.](https://www.strava.com/athletes/29514203)       | **1**  |     25 |    |      26 |
+|      4 | [Vroni S.](https://www.strava.com/athletes/29514203)       | **2**  |     25 |    |      27 |
+|      5 | [Dominic S.](https://www.strava.com/athletes/55489726)     | **2**  |     17 |    |      19 |
 |      6 | [Peter P.](https://www.strava.com/athletes/25457664)       | **1**  |     21 |    |      22 |
 |      7 | [Urs H.](https://www.strava.com/athletes/372431)           | **0**  |     13 |    |      13 |
 |      8 | [Georg S.](https://www.strava.com/athletes/916353)         | **0**  |     13 |    |      13 |
