@@ -37,7 +37,7 @@ for year in data:
             if name not in df['Name'].tolist():
                 df.loc[len(df)] = [name] + [0] * len(data)
             df.loc[df['Name'] == name, year] += 3 - rank
-df = df.sort_values(by=list(df.columns[:1:-1]), ascending=[False] * (len(df.columns) - 1))
+df = df.sort_values(by=list(df.columns[:0:-1]), ascending=[False] * (len(df.columns) - 1))
 
 # add a total column
 df[''] = None
