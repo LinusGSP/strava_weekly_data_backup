@@ -2,19 +2,19 @@
 
 |   Rang | Name                                                       | 2024   |   2023 |    |   Total |
 |-------:|:-----------------------------------------------------------|:-------|-------:|:---|--------:|
-|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **28** |     87 |    |     115 |
+|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **30** |     87 |    |     117 |
 |      2 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **13** |      0 |    |      13 |
-|      3 | [Vroni S.](https://www.strava.com/athletes/29514203)       | **6**  |     25 |    |      31 |
+|      3 | [Vroni S.](https://www.strava.com/athletes/29514203)       | **7**  |     25 |    |      32 |
 |      4 | [Peter P.](https://www.strava.com/athletes/25457664)       | **3**  |     21 |    |      24 |
 |      5 | [Schribi d.](https://www.strava.com/athletes/11422737)     | **3**  |     21 |    |      24 |
-|      6 | [Georg S.](https://www.strava.com/athletes/916353)         | **3**  |     13 |    |      16 |
-|      7 | [Markus R.](https://www.strava.com/athletes/4722924)       | **3**  |      6 |    |       9 |
-|      8 | [Dominic S.](https://www.strava.com/athletes/55489726)     | **2**  |     17 |    |      19 |
-|      9 | [Mathias B.](https://www.strava.com/athletes/49060784)     | **2**  |      5 |    |       7 |
-|     10 | [Peter P.](https://www.strava.com/athletes/57591751)       | **1**  |      9 |    |      10 |
-|     11 | [The M.](https://www.strava.com/athletes/6200327)          | **1**  |      3 |    |       4 |
-|     12 | [Silvia P.](https://www.strava.com/athletes/14573315)      | **1**  |      1 |    |       2 |
-|     13 | [Urs H.](https://www.strava.com/athletes/372431)           | **0**  |     13 |    |      13 |
+|      6 | [Urs H.](https://www.strava.com/athletes/372431)           | **3**  |     13 |    |      16 |
+|      7 | [Georg S.](https://www.strava.com/athletes/916353)         | **3**  |     13 |    |      16 |
+|      8 | [Markus R.](https://www.strava.com/athletes/4722924)       | **3**  |      6 |    |       9 |
+|      9 | [Dominic S.](https://www.strava.com/athletes/55489726)     | **2**  |     17 |    |      19 |
+|     10 | [Mathias B.](https://www.strava.com/athletes/49060784)     | **2**  |      5 |    |       7 |
+|     11 | [Peter P.](https://www.strava.com/athletes/57591751)       | **1**  |      9 |    |      10 |
+|     12 | [The M.](https://www.strava.com/athletes/6200327)          | **1**  |      3 |    |       4 |
+|     13 | [Silvia P.](https://www.strava.com/athletes/14573315)      | **1**  |      1 |    |       2 |
 |     14 | [Flipper F.](https://www.strava.com/athletes/42768485)     | **0**  |      8 |    |       8 |
 |     15 | [Olivier A.  S.](https://www.strava.com/athletes/28727279) | **0**  |      6 |    |       6 |
 |     16 | [Marcel I.](https://www.strava.com/athletes/7534298)       | **0**  |      5 |    |       5 |
