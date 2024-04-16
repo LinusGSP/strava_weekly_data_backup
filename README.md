@@ -2,12 +2,12 @@
 
 |   Rang | Name                                                       |   2023 | 2024   |    |   Total |
 |-------:|:-----------------------------------------------------------|-------:|:-------|:---|--------:|
-|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        |     87 | **35** |    |     122 |
+|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        |     87 | **38** |    |     125 |
 |      2 | [Vroni S.](https://www.strava.com/athletes/29514203)       |     25 | **7**  |    |      32 |
 |      3 | [Schribi d.](https://www.strava.com/athletes/11422737)     |     21 | **4**  |    |      25 |
 |      4 | [Peter P.](https://www.strava.com/athletes/25457664)       |     21 | **4**  |    |      25 |
 |      5 | [Dominic S.](https://www.strava.com/athletes/55489726)     |     17 | **2**  |    |      19 |
-|      6 | [Urs H.](https://www.strava.com/athletes/372431)           |     13 | **8**  |    |      21 |
+|      6 | [Urs H.](https://www.strava.com/athletes/372431)           |     13 | **10** |    |      23 |
 |      7 | [Georg S.](https://www.strava.com/athletes/916353)         |     13 | **3**  |    |      16 |
 |      8 | [Peter P.](https://www.strava.com/athletes/57591751)       |      9 | **1**  |    |      10 |
 |      9 | [Flipper F.](https://www.strava.com/athletes/42768485)     |      8 | **0**  |    |       8 |
@@ -40,3 +40,4 @@
 |     36 | [Philippe K.](https://www.strava.com/athletes/10843886)    |      1 | **0**  |    |       1 |
 |     37 | [Max B.](https://www.strava.com/athletes/24834013)         |      1 | **0**  |    |       1 |
 |     38 | [Unggle T.](https://www.strava.com/athletes/22347544)      |      0 | **13** |    |      13 |
+|     39 | [Reto S.](https://www.strava.com/athletes/9681288)         |      0 | **1**  |    |       1 |
