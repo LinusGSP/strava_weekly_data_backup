@@ -2,12 +2,12 @@
 
 |   Rang | Name                                                       | 2024   |   2023 |    |   Total |
 |-------:|:-----------------------------------------------------------|:-------|-------:|:---|--------:|
-|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **38** |     87 |    |     125 |
-|      2 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **13** |      0 |    |      13 |
-|      3 | [Urs H.](https://www.strava.com/athletes/372431)           | **11** |     13 |    |      24 |
+|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **40** |     87 |    |     127 |
+|      2 | [Urs H.](https://www.strava.com/athletes/372431)           | **14** |     13 |    |      27 |
+|      3 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **13** |      0 |    |      13 |
 |      4 | [Vroni S.](https://www.strava.com/athletes/29514203)       | **7**  |     25 |    |      32 |
 |      5 | [Schribi d.](https://www.strava.com/athletes/11422737)     | **6**  |     21 |    |      27 |
-|      6 | [Peter P.](https://www.strava.com/athletes/25457664)       | **4**  |     21 |    |      25 |
+|      6 | [Peter P.](https://www.strava.com/athletes/25457664)       | **5**  |     21 |    |      26 |
 |      7 | [Georg S.](https://www.strava.com/athletes/916353)         | **3**  |     13 |    |      16 |
 |      8 | [Markus R.](https://www.strava.com/athletes/4722924)       | **3**  |      6 |    |       9 |
 |      9 | [Remo M.](https://www.strava.com/athletes/10098982)        | **3**  |      0 |    |       3 |
