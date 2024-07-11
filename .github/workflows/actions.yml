@@ -3,6 +3,7 @@ name: run main.py
 on:
   schedule:
     - cron: '0 0 * * TUE' # run every week on tuesday at 0:00
+  workflow_dispatch:
 
 
 jobs:
