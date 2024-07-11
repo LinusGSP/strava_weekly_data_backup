@@ -27,7 +27,7 @@ os.makedirs(os.path.dirname(file_path), exist_ok=True)
 open(file_path, 'w').write(json.dumps(response_data))
 
 # create a dataframe with the weekly data
-data = list(reversed(os.listdir('weekly_data')))
+data = list(sorted(os.listdir('weekly_data'), reverse=True))
 df = pd.DataFrame(columns=['Name', *data])
 for year in data:
     for week in os.listdir(f'weekly_data/{year}'):
