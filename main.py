@@ -59,7 +59,7 @@ for year in data:
     for week in os.listdir(f'weekly_data/{year}'):
         week_data = json.loads(open(f'weekly_data/{year}/{week}').read())
         for rank, athlete in enumerate(week_data[:3]):
-            name = f"{athlete['athlete_firstname']} {athlete['athlete_lastname']};{athlete['athlete_id']}"
+            name = f"{athlete['athlete_firstname']} {athlete['athlete_lastname'][0]}.;{athlete['athlete_id']}"
             if name not in df['Name'].tolist():
                 df.loc[len(df)] = [name] + [0] * len(data)
             df.loc[df['Name'] == name, year] += 3 - rank
