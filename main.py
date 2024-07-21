@@ -1,24 +1,50 @@
+import datetime
+import json
 import os
 
-import requests
-import json
-import datetime
 import pandas as pd
+import requests
+from dotenv import load_dotenv
 
-club_id = 1110060
+load_dotenv()
 
-headers = {
+# load environment variables
+email = os.getenv('EMAIL')
+password = os.getenv('PASSWORD')
+club_id = os.getenv('CLUB_ID')
+
+# create a session
+session = requests.Session()
+session.headers.update({
     'accept': 'text/javascript',
     'x-requested-with': 'XMLHttpRequest'
+})
+
+# get an authenticity token
+response_text = session.get('https://www.strava.com/login').text
+authenticity_token = response_text.split('name="authenticity_token" value="')[1].split('"')[0]
+
+login_data = {
+    'email': email,
+    'password': password,
+    'authenticity_token': authenticity_token,
+    'utf8': '✓'
 }
 
-url = f'https://www.strava.com/clubs/{club_id}/leaderboard?week_offset=1&per_page=None&sort_by=moving_time'
+# login
+login_url = 'https://www.strava.com/session'
+login_response = session.post(login_url, data=login_data)
+if login_response.status_code != 200:
+    print('Login failed')
+    exit(1)
 
+url = f'https://www.strava.com/clubs/{club_id}/leaderboard?week_offset=1&per_page=None&sort_by=moving_time'
 now = datetime.datetime.now()
 current_year = f'{now.year}'
 
 # get the last weeks rankings
-response = requests.get(url, headers=headers)
+response = session.get(url)
+print(response.content)
 response_data = response.json()['data']
 
 # dump new weekly information into file
