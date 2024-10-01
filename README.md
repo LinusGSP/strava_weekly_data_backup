@@ -3,7 +3,7 @@
 |   Rang | Name                                                       | 2024   |   2023 |    |   Total |
 |-------:|:-----------------------------------------------------------|:-------|-------:|:---|--------:|
 |      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **75** |     87 |    |     162 |
-|      2 | [Vroni S.](https://www.strava.com/athletes/29514203)       | **15** |     25 |    |      40 |
+|      2 | [Vroni S.](https://www.strava.com/athletes/29514203)       | **16** |     25 |    |      41 |
 |      3 | [Urs H.](https://www.strava.com/athletes/372431)           | **15** |     13 |    |      28 |
 |      4 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **13** |      0 |    |      13 |
 |      5 | [Schribi d.](https://www.strava.com/athletes/11422737)     | **12** |     21 |    |      33 |
@@ -11,20 +11,20 @@
 |      7 | [Peter P.](https://www.strava.com/athletes/25457664)       | **10** |     21 |    |      31 |
 |      8 | [Marc R.](https://www.strava.com/athletes/58984045)        | **10** |      1 |    |      11 |
 |      9 | [Olivier A.  S.](https://www.strava.com/athletes/28727279) | **6**  |      6 |    |      12 |
-|     10 | [Dominic S.](https://www.strava.com/athletes/55489726)     | **5**  |     17 |    |      22 |
-|     11 | [Peter M.](https://www.strava.com/athletes/14946812)       | **4**  |      2 |    |       6 |
-|     12 | [Peter P.](https://www.strava.com/athletes/57591751)       | **3**  |      9 |    |      12 |
-|     13 | [Markus R.](https://www.strava.com/athletes/4722924)       | **3**  |      6 |    |       9 |
-|     14 | [Päsche U.](https://www.strava.com/athletes/28885166)      | **3**  |      3 |    |       6 |
-|     15 | [Waldemar D.](https://www.strava.com/athletes/7070994)     | **3**  |      0 |    |       3 |
-|     16 | [Marion R.](https://www.strava.com/athletes/26731457)      | **3**  |      0 |    |       3 |
-|     17 | [Remo M.](https://www.strava.com/athletes/10098982)        | **3**  |      0 |    |       3 |
-|     18 | [Jan n.](https://www.strava.com/athletes/9298575)          | **3**  |      0 |    |       3 |
-|     19 | [Axel K.](https://www.strava.com/athletes/59300995)        | **3**  |      0 |    |       3 |
-|     20 | [Marcel I.](https://www.strava.com/athletes/7534298)       | **2**  |      5 |    |       7 |
-|     21 | [Alain P.](https://www.strava.com/athletes/3430605)        | **2**  |      5 |    |       7 |
-|     22 | [Mathias B.](https://www.strava.com/athletes/49060784)     | **2**  |      5 |    |       7 |
-|     23 | [The M.](https://www.strava.com/athletes/6200327)          | **2**  |      3 |    |       5 |
+|     10 | [Jan n.](https://www.strava.com/athletes/9298575)          | **6**  |      0 |    |       6 |
+|     11 | [Dominic S.](https://www.strava.com/athletes/55489726)     | **5**  |     17 |    |      22 |
+|     12 | [The M.](https://www.strava.com/athletes/6200327)          | **4**  |      3 |    |       7 |
+|     13 | [Peter M.](https://www.strava.com/athletes/14946812)       | **4**  |      2 |    |       6 |
+|     14 | [Peter P.](https://www.strava.com/athletes/57591751)       | **3**  |      9 |    |      12 |
+|     15 | [Markus R.](https://www.strava.com/athletes/4722924)       | **3**  |      6 |    |       9 |
+|     16 | [Päsche U.](https://www.strava.com/athletes/28885166)      | **3**  |      3 |    |       6 |
+|     17 | [Waldemar D.](https://www.strava.com/athletes/7070994)     | **3**  |      0 |    |       3 |
+|     18 | [Marion R.](https://www.strava.com/athletes/26731457)      | **3**  |      0 |    |       3 |
+|     19 | [Remo M.](https://www.strava.com/athletes/10098982)        | **3**  |      0 |    |       3 |
+|     20 | [Axel K.](https://www.strava.com/athletes/59300995)        | **3**  |      0 |    |       3 |
+|     21 | [Marcel I.](https://www.strava.com/athletes/7534298)       | **2**  |      5 |    |       7 |
+|     22 | [Alain P.](https://www.strava.com/athletes/3430605)        | **2**  |      5 |    |       7 |
+|     23 | [Mathias B.](https://www.strava.com/athletes/49060784)     | **2**  |      5 |    |       7 |
 |     24 | [Flurin H.](https://www.strava.com/athletes/60467988)      | **2**  |      2 |    |       4 |
 |     25 | [Stefan S.](https://www.strava.com/athletes/4143694)       | **2**  |      0 |    |       2 |
 |     26 | [Francesco S.](https://www.strava.com/athletes/12378132)   | **2**  |      0 |    |       2 |
