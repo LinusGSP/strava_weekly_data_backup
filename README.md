@@ -2,16 +2,16 @@
 
 |   Rang | Name                                                       | 2024   |   2023 |    |   Total |
 |-------:|:-----------------------------------------------------------|:-------|-------:|:---|--------:|
-|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **81** |     87 |    |     168 |
+|      1 | [Sepp F.](https://www.strava.com/athletes/16756310)        | **84** |     87 |    |     171 |
 |      2 | [Vroni S.](https://www.strava.com/athletes/29514203)       | **16** |     25 |    |      41 |
 |      3 | [Urs H.](https://www.strava.com/athletes/372431)           | **15** |     13 |    |      28 |
-|      4 | [Georg S.](https://www.strava.com/athletes/916353)         | **14** |     13 |    |      27 |
-|      5 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **13** |      0 |    |      13 |
-|      6 | [Schribi d.](https://www.strava.com/athletes/11422737)     | **12** |     21 |    |      33 |
+|      4 | [Schribi d.](https://www.strava.com/athletes/11422737)     | **14** |     21 |    |      35 |
+|      5 | [Georg S.](https://www.strava.com/athletes/916353)         | **14** |     13 |    |      27 |
+|      6 | [Unggle T.](https://www.strava.com/athletes/22347544)      | **13** |      0 |    |      13 |
 |      7 | [Peter P.](https://www.strava.com/athletes/25457664)       | **10** |     21 |    |      31 |
 |      8 | [Marc R.](https://www.strava.com/athletes/58984045)        | **10** |      1 |    |      11 |
-|      9 | [Olivier A.  S.](https://www.strava.com/athletes/28727279) | **6**  |      6 |    |      12 |
-|     10 | [Waldemar D.](https://www.strava.com/athletes/7070994)     | **6**  |      0 |    |       6 |
+|      9 | [Waldemar D.](https://www.strava.com/athletes/7070994)     | **7**  |      0 |    |       7 |
+|     10 | [Olivier A.  S.](https://www.strava.com/athletes/28727279) | **6**  |      6 |    |      12 |
 |     11 | [Jan n.](https://www.strava.com/athletes/9298575)          | **6**  |      0 |    |       6 |
 |     12 | [Dominic S.](https://www.strava.com/athletes/55489726)     | **5**  |     17 |    |      22 |
 |     13 | [Flurin H.](https://www.strava.com/athletes/60467988)      | **5**  |      2 |    |       7 |
